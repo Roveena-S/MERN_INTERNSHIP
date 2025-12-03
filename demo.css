@@ -1,0 +1,39 @@
+.one{
+    font-size: 50;
+    color: rgb(3, 85, 48);
+    background-color: rgb(109, 202, 154);
+
+}
+.second{
+    font-size: 50;
+    color: rgb(255, 0, 0);
+    background-color: rgb(245, 129, 129);
+}
+h1{
+    color: gold;
+}
+div{
+    color: rgb(199,196,240)
+}
+.left{
+    text-align: left;
+    font-style: italic;
+}
+.right{
+    text-align: right;
+    font-family:fantasy;
+}
+.centre{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+a {
+    color: purple;        
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;           
+}
